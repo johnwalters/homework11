@@ -8,6 +8,6 @@ namespace Homework11
 {
     public class Class1
     {
-        // test gg
+        // test gg gg
     }
 }
